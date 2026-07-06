@@ -495,7 +495,7 @@ a{
     line-height: 1.54;
 }
 
-/* ============ features ==================================== */
+/* ============ features 1 ==================================== */
 .features{
     margin-top: 135px;
     padding: 65px 0;
@@ -523,7 +523,7 @@ a{
 }
 
 .features .content{
-    width: 41%;
+    width: 42%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -542,4 +542,22 @@ a{
     width: 137px;
     height: 50px;
     background: var(--primary-color);
+}
+
+/* ============ features 2 ==================================== */
+.features-2nd{
+    margin-top: 70px;
+}
+
+.features-2nd .body{
+    flex-direction: row-reverse;
+}
+
+.features-2nd .content{
+    width: 50%;
+}
+
+.features-2nd .image img{
+    width: 470px;
+    height: 440px;
 }
