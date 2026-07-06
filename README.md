@@ -13,3 +13,5 @@ b6 làm phần feedback
 b7 làm phần features
 
 b8 làm phần blog
+
+b9 làm phần footer
